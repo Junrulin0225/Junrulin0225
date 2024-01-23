@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Junrulin0225
-- 👀 I’m interested in data analysis and machine learning in the medical field.
-- 🌱 I’m currently strengthening my SQL, Python and Tablaeu skills.
+- 👀 I’m interested in data analysis and machine learning in the medical and healthcare field.
+- 🌱 I’m currently strengthening my SQL, Python, and Tablaeu skills.
 - 📫 How to reach me: candy819896@gmail.com
 
 <!---
