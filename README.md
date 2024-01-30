@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Junrulin0225
-- 👀 I’m interested in data analysis and machine learning in the **medical and healthcare field**.
+- 👀 I’m interested in **data analysis** and **machine learning** in the **medical and healthcare field**.
 - 🎯 My aim is to **leverage artificial intelligence to analyze medical reports for disease and cancer diagnosis**.
 - 👩‍💻 Experience:
 
