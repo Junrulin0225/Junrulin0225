@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Junrulin0225&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Junrulin0225&hide_border=true" />
+</p>
 - 👋 Hi, I’m @Junrulin0225
 - 👀 I’m interested in **data analysis** and **machine learning** in the **medical and healthcare field**.
 - 🎯 My aim is to **leverage artificial intelligence to analyze medical reports for disease and cancer diagnosis**.
@@ -19,8 +23,3 @@
 Junrulin0225/Junrulin0225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<p align="center">
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Junrulin0225&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
-  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Junrulin0225&hide_border=true" />
-</p>
