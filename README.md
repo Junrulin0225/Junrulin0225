@@ -17,7 +17,7 @@
 
   - a previous biomedical data analyst / annotator who analyzed and annotated lots of medical reports to gain insights for **AI-assisted cancer registry system** for almost 1 year
 
-  - a non-stop learner who continues pursuing **data analytics and science (mainly Python, currently learning JavaScript) and machine learning skills**
+  - a non-stop learner who continues pursuing **data analytics and science** (mainly **Python**, currently learning JavaScript) and **machine learning** skills.
 
 - 📫 How to reach me: candy819896@gmail.com
 
